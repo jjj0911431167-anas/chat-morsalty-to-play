@@ -1,0 +1,14 @@
+{
+  "name": "Chat Morsalty To Play",
+  "version": "1.0.0",
+  "features": {
+    "otp": true,
+    "privateChats": true,
+    "groups": true,
+    "voiceMessages": true,
+    "voiceCalls": true,
+    "videoCalls": true,
+    "channels": true,
+    "stories": true
+  }
+}
