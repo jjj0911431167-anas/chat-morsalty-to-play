@@ -1,0 +1,48 @@
+{
+  "user": {
+    "id": "",
+    "phone": "",
+    "username": "",
+    "displayName": "",
+    "avatar": "",
+    "bio": "",
+    "verified": false,
+    "online": false,
+    "lastSeen": "",
+    "createdAt": ""
+  },
+
+  "conversation": {
+    "id": "",
+    "type": "private",
+    "participants": [],
+    "lastMessageId": "",
+    "updatedAt": ""
+  },
+
+  "message": {
+    "id": "",
+    "conversationId": "",
+    "senderId": "",
+    "type": "text",
+    "content": "",
+    "sentAt": "",
+    "delivered": false,
+    "seen": false
+  },
+
+  "group": {
+    "id": "",
+    "name": "",
+    "ownerId": "",
+    "members": []
+  },
+
+  "call": {
+    "id": "",
+    "callerId": "",
+    "receiverId": "",
+    "type": "voice",
+    "status": "ringing"
+  }
+}
