@@ -1,0 +1,7 @@
+{
+  "otpLength": 6,
+  "otpExpireMinutes": 5,
+  "maxAttempts": 5,
+  "countryCode": "+218",
+  "jwtExpireDays": 30
+}
